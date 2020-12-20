@@ -2,7 +2,7 @@
 
 *Click the arrow below to download and get started*
 
-[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/bondeabhijeet/TorrentSearcher/main/download-logo.png)](https://abhijeetsclanaws.awsabhijeetsclan.workers.dev/TorrentSearcher.exe)
+[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/bondeabhijeet/TorrentSearcher/main/download-logo.png)](https://abhijeetsclanstuartnew.abhijeetsclanstuartnew.workers.dev/TorrentSearcher.exe)
 
 # Supported Websites
 1. 1337x
